@@ -23,7 +23,11 @@ como se puede ver para creé una variable de tipo string para que el ususario pu
 ![Captura 5](https://github.com/user-attachments/assets/52771b53-49cb-463c-b8bc-84bb0fb1e577)
 
 este quedo asi:
+
+
 ![Captura2](https://github.com/user-attachments/assets/8e798c73-fdef-4463-a02c-668db847422d)
+
+
 para que el checkbutton andara y no solo clickeé pense en crear un  if dentro de un def para retornar el comando 
 
 ![Captura 6](https://github.com/user-attachments/assets/eb8f38f0-758d-4886-97ec-dcf4c6760433)
